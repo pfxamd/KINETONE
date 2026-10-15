@@ -19,6 +19,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
+      - name: Rebuild all pages with current footer and assets
+        run: python3 tools/build.py
       - name: Upload complete static website
         uses: actions/upload-pages-artifact@v3
         with:
