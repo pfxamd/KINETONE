@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /KINETONE/
+Sitemap: https://pfxamd.github.io/KINETONE/sitemap.xml

@@ -1,0 +1,202 @@
+{
+  "project": "KINETONE",
+  "count": 28,
+  "images": [
+    {
+      "filename": "01-brand-home-hero.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 119234,
+      "sha256": "57b290ab94d18ab66b6e9eaa36981d665afd65ce7fe70125c092097b178c7802"
+    },
+    {
+      "filename": "02-instruments-collection.webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 69994,
+      "sha256": "2b96fd74890d7cff8e9640cd84c1aa9e0f2a6b27a535602862dfb84d7d5cd753"
+    },
+    {
+      "filename": "03-brand-design-language.webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 157762,
+      "sha256": "b35fd59691afe9bfefe5e69a796375c7411b483a4bf0626ac0fee84d6a14ee34"
+    },
+    {
+      "filename": "04-product-unboxing.webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 135202,
+      "sha256": "021a5fe32e7926e529190867378334198c8fc00c4e9d7aaa67c4d3a218757e29"
+    },
+    {
+      "filename": "05-pulse-primary-hero.webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 81308,
+      "sha256": "44fad9b29fa1c6e250b5208fadd2f060626373991ff34bfda993bf12d2c95c4f"
+    },
+    {
+      "filename": "06-pulse-top-controls.webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 58954,
+      "sha256": "18e6092f8b728bd0ceaa7babbbe80d2bc1ce1ad1124c52348d0a38d74ce8033a"
+    },
+    {
+      "filename": "07-pulse-rear-connectivity.webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 92720,
+      "sha256": "20ab1704354750755caeab5a931b8eac1771356c61d63cb0b3b3d35c353c4305"
+    },
+    {
+      "filename": "08-form-primary-hero.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 77478,
+      "sha256": "1ce08d41e82bacbff1a2aa6c4652833b872fb9949292c3858060dcc668980c01"
+    },
+    {
+      "filename": "09-form-top-controls.webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 33648,
+      "sha256": "72b2bdeea9afce8070735664b5577d7d39f25e26104f3913f3c5bb01ce6bafae"
+    },
+    {
+      "filename": "10-form-rear-connectivity.webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 71364,
+      "sha256": "78465fdbc4cf7dde22c1b5943e56dcf441053f012996a5cb5cc4a3e36ae66f84"
+    },
+    {
+      "filename": "11-loop-primary-hero.webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 71082,
+      "sha256": "9f883fca73da15e1b7c2ddd1c5b73dba3e8c964567ee9443e56ce965f178efd4"
+    },
+    {
+      "filename": "12-loop-top-controls.webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 58804,
+      "sha256": "1c2cc3ab709d73571e5ac1cb348dba0f927170c4d65da36b3be6d8280fd53533"
+    },
+    {
+      "filename": "13-loop-rear-connectivity.webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 61034,
+      "sha256": "0768cd1c6cf64b2d9de679c250ee8bb0b6f2d8acb3c50a6cda76bd783f716ccc"
+    },
+    {
+      "filename": "14-pulse-performance-pads.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 87004,
+      "sha256": "f6155f2039de5f936e46ddef18f4c4ba6dbc5705e495e8fa90d081b750e756d7"
+    },
+    {
+      "filename": "15-pulse-rotary-encoders.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 102192,
+      "sha256": "3038c582bb98911dfb686b4e84c166d8946e662b6396b12de784819312e0f3f8"
+    },
+    {
+      "filename": "16-form-keyboard-detail.webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 86968,
+      "sha256": "1f7d2ecd74eb7ea66a0e38aa34ae166a3c9abdad82c4c3b11048fbdb026e0df3"
+    },
+    {
+      "filename": "17-form-waveform-display.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 89130,
+      "sha256": "dc6fa4d4375d25ff8b1f157237e70c5a5e761b1fb28c2d41d2eeb15e9a27220f"
+    },
+    {
+      "filename": "18-loop-recording-controls.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 126256,
+      "sha256": "071ca033177bb46a5f91e1eac43683523e1e39f3174831eefe65e36e65fa6413"
+    },
+    {
+      "filename": "19-loop-audio-connections.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 61796,
+      "sha256": "bd888d4d53e80eba08a47ccd03722e782374b78e1a12a267b038dc8ec2c7b382"
+    },
+    {
+      "filename": "20-pulse-creative-workflow.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 116080,
+      "sha256": "7a8fb67cd575d68e03ed8d3ceb87378d52cf48bed55be500f016f1ecb06bdd31"
+    },
+    {
+      "filename": "21-form-live-performance.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 83924,
+      "sha256": "92495a79fbe228b8d941ada0f8a37fd0871819e193397e72b391beca1c6de20f"
+    },
+    {
+      "filename": "22-loop-portable-creation.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 159284,
+      "sha256": "4619065446c77aa9d15d431f222e5df6986d8cc9c9c4c03471b931fcf7fdff55"
+    },
+    {
+      "filename": "23-industrial-design-workshop.webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 144452,
+      "sha256": "f8f25f1e2526d6d3195fa625ba4102afaf467e03ea6cbb5a56ec6834b6d24a8d"
+    },
+    {
+      "filename": "24-field-sound-recording.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 152134,
+      "sha256": "35698863fbd55f4a667eb464d631530a9163604aa13f2daeba69089dd7d32415"
+    },
+    {
+      "filename": "25-sessions-electronic-duo.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 141544,
+      "sha256": "1529c309f430844e0da3b8edd3bfaf7795a273e5e706463d89c888a6a2b5947b"
+    },
+    {
+      "filename": "26-sessions-sampling-performance.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 111476,
+      "sha256": "ce2669039f994b0d78250de85051ebd724efe9ff4080639deceaf2f268af11f0"
+    },
+    {
+      "filename": "27-journal-prototype-study.webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 157650,
+      "sha256": "4ad7e6fc47b730789eba6e361e3b030286dc53ad9d24f74101d8145ba51bb8b6"
+    },
+    {
+      "filename": "28-journal-creative-culture.webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 158954,
+      "sha256": "877fc2d3ac0440fb73c6465cabf779a7e4f14afa4e5e067435fd51a818bd5475"
+    }
+  ]
+}
